@@ -57,6 +57,7 @@ img { display: block; max-width: 100%; }
 }
 
 .logo-icon { width: 36px; height: 36px; object-fit: contain; }
+.logo-icon-emoji { font-size: 28px; line-height: 1; }
 
 .logo-text {
     font-size: 20px;
