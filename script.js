@@ -52,6 +52,36 @@ const channels = [
 { name: "Duronto TV", group: "🇧🇩 Bangladesh", logo: "https://i.imgur.com/gXsddRK.png", url: "https://tvsen5.aynaott.com/durontotv/index.m3u8" },
 { name: "Star Jalsha HD", group: "🇧🇩 Bangladesh", logo: "https://i.imgur.com/IlufzR5.png", url: "https://tvsen4.aynaott.com/n64PH4YL/index.m3u8" },
 { name: "Zee Bangla HD", group: "🇧🇩 Bangladesh", logo: "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png", url: "http://217.20.112.199:8080/maamovies/index.m3u8" },
+// ===================== 🚀 BDIX PREMIUM =====================
+{ name: "Welcome to PlayZ TV", group: "🚀 BDIX Premium", logo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyniKyW9pUz1OKx5bgzLASwGVSuP0e7hX9FxVMTJMHxhu8X0tpucgSplBZgM8pCYrJJH0P2_dTC1-wzp4mMUU4sKnOzghGPCwWdbYOOa4jTyhpr7ydNj-UK-bc56IMsk2H3WZJ-SzSZIk0dTpyABCFR2_zjC2_c86W1pv7odFBT_Y-hyJs62g-3zCJkPGd/s1024/1000398131.png", url: "https://playztv.pages.dev/promo/master.m3u8" },
+{ name: "Ekushey TV (Akash)", group: "🚀 BDIX Premium", logo: "https://s4.gifyu.com/images/image534fa27d7683f33d.png", url: "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8" },
+{ name: "Deepto TV (Akash)", group: "🚀 BDIX Premium", logo: "https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png", url: "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8" },
+{ name: "BBC News (Akash)", group: "🚀 BDIX Premium", logo: "https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png", url: "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8" },
+{ name: "Somoy TV HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png", url: "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8" },
+{ name: "Jamuna TV HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png", url: "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8" },
+{ name: "DBC News HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png", url: "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8" },
+{ name: "Ekattor HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png", url: "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8" },
+{ name: "Channel 24 HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png", url: "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8" },
+{ name: "ATN News HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png", url: "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8" },
+{ name: "News 24 HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png", url: "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8" },
+{ name: "Star News HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png", url: "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8" },
+{ name: "Channel 9 HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png", url: "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8" },
+{ name: "Channel I HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png", url: "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8" },
+{ name: "Bangla Vision HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png", url: "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8" },
+{ name: "NTV HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png", url: "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8" },
+{ name: "BTV HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png", url: "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8" },
+{ name: "Independent TV HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png", url: "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8" },
+{ name: "Cineedge HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png", url: "https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8" },
+{ name: "Uniques HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png", url: "https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8" },
+{ name: "Superrix HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png", url: "https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8" },
+{ name: "Sports Legends", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png", url: "https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8" },
+{ name: "Flash Guys HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png", url: "https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8" },
+{ name: "Sports Range", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png", url: "https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8" },
+{ name: "Thunder Er", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png", url: "https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8" },
+{ name: "Fighters", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png", url: "https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8" },
+{ name: "BuddyStar HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png", url: "https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8" },
+{ name: "Kids Stars", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png", url: "https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8" },
+{ name: "Al Quran HD", group: "🚀 BDIX Premium", logo: "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png", url: "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8" },
 
 // ===================== ⚽ FOOTBALL / SPORTS =====================
 { name: "T Sports HD 🇧🇩", group: "⚽ Football & Sports", logo: "https://i.imgur.com/2JzlorD.png", url: "https://tvsen7.aynaott.com/tsports-hd/index.m3u8" },
@@ -168,7 +198,7 @@ const channels = [
 
 // ============================================================
 // All unique groups (ordered)
-const groupOrder = ["ALL", "⚽ Football & Sports", "🇧🇩 Bangladesh", "📰 World News", "🎬 Hindi & Indian", "🕌 Islamic", "🎵 Music", "🧒 Kids", "🎥 Documentary"];
+const groupOrder = ["ALL", "🚀 BDIX Premium", "⚽ Football & Sports", "🇧🇩 Bangladesh", "📰 World News", "🎬 Hindi & Indian", "🕌 Islamic", "🎵 Music", "🧒 Kids", "🎥 Documentary"];
 const allGroups = groupOrder.filter(g => g === "ALL" || channels.some(c => c.group === g));
 
 // ===== STATE =====
